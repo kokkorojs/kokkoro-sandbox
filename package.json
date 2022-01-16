@@ -1,5 +1,5 @@
 {
-  "name": "kokkoro-sendbox",
+  "name": "kokkoro-sandbox",
   "version": "0.0.1",
   "description": "将收到的消息当做代码在沙盒中执行，并返回结果",
   "main": "index.js",
