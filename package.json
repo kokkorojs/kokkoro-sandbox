@@ -1,0 +1,27 @@
+{
+  "name": "kokkoro-sendbox",
+  "version": "0.0.1",
+  "description": "将收到的消息当做代码在沙盒中执行，并返回结果",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokkorojs/kokkoro-sendbox.git"
+  },
+  "keywords": [
+    "kokkoro"
+  ],
+  "author": "dc_yuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokkorojs/kokkoro-sendbox/issues"
+  },
+  "homepage": "https://github.com/kokkorojs/kokkoro-sendbox#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "moment": "^2.29.1",
+    "riichi": "^1.2.0",
+    "string.ify": "^1.0.64",
+    "syanten": "^1.5.0",
+    "utf-8-validate": "^5.0.8"
+  }
+}
